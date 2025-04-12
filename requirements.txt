@@ -1,10 +1,11 @@
 streamlit
-geopandas
-fpdf
-opencv-python-headless
-seaborn
-matplotlib
-pandas
+torch==2.0.1+cpu
+torchvision==0.15.2+cpu
+torchaudio==2.0.2+cpu
+detectron2==0.6 -f https://dl.fbaipublicfiles.com/detectron2/wheels/cu117/torch2.0/index.html
+opencv-python
 numpy
+geopandas
+matplotlib
 shapely
-Pillow
+fpdf

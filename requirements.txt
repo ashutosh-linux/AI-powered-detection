@@ -1,0 +1,10 @@
+streamlit
+geopandas
+fpdf
+opencv-python-headless
+seaborn
+matplotlib
+pandas
+numpy
+shapely
+Pillow
